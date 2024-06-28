@@ -1,3 +1,3 @@
-# :crystal_ball: Manager Script
+# :crystal_ball:Unity Manager Script
 
 ---

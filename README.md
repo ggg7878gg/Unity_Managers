@@ -1,3 +1,3 @@
-# :crystal_ball: GameManager
+# :crystal_ball: Manager Script
 
 ---
